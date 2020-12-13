@@ -1,0 +1,13 @@
+.contactsListItem {
+    font-size: 20px;
+}
+.contactsListItem:not(:last-child) {
+    margin-bottom: 20px;
+}
+.deleteContact {
+    background-color: rgb(179, 28, 28);
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 20px;
+} 
